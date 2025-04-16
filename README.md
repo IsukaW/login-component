@@ -2,7 +2,9 @@
 
 A modern, space-themed login interface with a clean and elegant design. This React component features a responsive login form with username and password fields, validation feedback, and a stylish animated sign-in button - all set against a stunning starry night background.
 
-![Login Component Screenshot](./screenshots/login-screenshot.png)
+<p align="center">
+  <img src="./screenshot/login-screenshot.png" alt="Login Component Screenshot" width="80%" />
+</p>
 
 ## Features
 
